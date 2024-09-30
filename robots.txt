@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://peibd.github.io/FJN/sitemap.FJN.gz
